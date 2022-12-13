@@ -7,4 +7,4 @@ def main(a):
     Returns:
         float: the result
     '''
-    return
+    return "%.2f" % a
